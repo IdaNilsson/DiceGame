@@ -20,7 +20,7 @@ public class Main {     //klassen som syns.
     }
 
     public static void startGame(String name){      //spelet startar på nästa rad (string name)
-        int player1Point = 0;
+        int player1Point = 0;//ny kommentar
         int player2Point = 0;
         int dice = 0; //initiera till 0
 
